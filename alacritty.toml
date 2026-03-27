@@ -46,3 +46,6 @@ hide_when_typing = true
 bindings = [
 { key = "F11", action = "ToggleFullscreen" },
 ]
+
+[debug]
+log_level = "Error"
